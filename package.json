@@ -1,0 +1,24 @@
+{
+  "name": "fcc_5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "vanilla-tilt": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheikhFaizan141/My-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SheikhFaizan141/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/SheikhFaizan141/My-Portfolio#readme",
+  "description": ""
+}
